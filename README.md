@@ -13,5 +13,10 @@ Brute forced through random fxn to achieve nearly absolute randomness. To do so,
 passGen():
 Using the number assigned for these cases, I assigned random item from its respective files, and appended to the "password". Changed the format into a list. Then, I shuffled the order of this string of characters. To finalize, I joined the shuffled characters, and printed into the terminal.
 
+Future updates/work:
+-Save the passwords and print them on a seperate note file.
+-Make this into a chrome extension, so only it will auto fill the passwords.
+-Give user options to add and/or omit certain characters.
+
 Conclusion:
 Not really a hard concept, troubles arouse from formatting and error handling.
